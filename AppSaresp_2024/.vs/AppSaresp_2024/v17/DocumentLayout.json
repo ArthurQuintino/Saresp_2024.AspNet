@@ -1,0 +1,265 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\Appsaresp2024\\AppSaresp_2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5DF2D8-AE19-4460-B08E-1898C5F39B1C}|AppSaresp_2024.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\appsaresp2024\\appsaresp_2024\\views\\professoraplicadorrepository\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F5DF2D8-AE19-4460-B08E-1898C5F39B1C}|AppSaresp_2024.csproj|solutionrelative:views\\professoraplicadorrepository\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5DF2D8-AE19-4460-B08E-1898C5F39B1C}|AppSaresp_2024.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\appsaresp2024\\appsaresp_2024\\views\\professoraplicadorrepository\\cadastrarprofessor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F5DF2D8-AE19-4460-B08E-1898C5F39B1C}|AppSaresp_2024.csproj|solutionrelative:views\\professoraplicadorrepository\\cadastrarprofessor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5DF2D8-AE19-4460-B08E-1898C5F39B1C}|AppSaresp_2024.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\appsaresp2024\\appsaresp_2024\\views\\aluno\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F5DF2D8-AE19-4460-B08E-1898C5F39B1C}|AppSaresp_2024.csproj|solutionrelative:views\\aluno\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5DF2D8-AE19-4460-B08E-1898C5F39B1C}|AppSaresp_2024.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\appsaresp2024\\appsaresp_2024\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5DF2D8-AE19-4460-B08E-1898C5F39B1C}|AppSaresp_2024.csproj|solutionrelative:controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5DF2D8-AE19-4460-B08E-1898C5F39B1C}|AppSaresp_2024.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\appsaresp2024\\appsaresp_2024\\controllers\\professoraplicadorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5DF2D8-AE19-4460-B08E-1898C5F39B1C}|AppSaresp_2024.csproj|solutionrelative:controllers\\professoraplicadorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5DF2D8-AE19-4460-B08E-1898C5F39B1C}|AppSaresp_2024.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\appsaresp2024\\appsaresp_2024\\models\\professoraplicador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5DF2D8-AE19-4460-B08E-1898C5F39B1C}|AppSaresp_2024.csproj|solutionrelative:models\\professoraplicador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5DF2D8-AE19-4460-B08E-1898C5F39B1C}|AppSaresp_2024.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\appsaresp2024\\appsaresp_2024\\repository\\professoraplicadorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5DF2D8-AE19-4460-B08E-1898C5F39B1C}|AppSaresp_2024.csproj|solutionrelative:repository\\professoraplicadorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5DF2D8-AE19-4460-B08E-1898C5F39B1C}|AppSaresp_2024.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\appsaresp2024\\appsaresp_2024\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F5DF2D8-AE19-4460-B08E-1898C5F39B1C}|AppSaresp_2024.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5DF2D8-AE19-4460-B08E-1898C5F39B1C}|AppSaresp_2024.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\appsaresp2024\\appsaresp_2024\\repository\\alunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5DF2D8-AE19-4460-B08E-1898C5F39B1C}|AppSaresp_2024.csproj|solutionrelative:repository\\alunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5DF2D8-AE19-4460-B08E-1898C5F39B1C}|AppSaresp_2024.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\appsaresp2024\\appsaresp_2024\\repository\\contract\\iprofessoraplicadorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5DF2D8-AE19-4460-B08E-1898C5F39B1C}|AppSaresp_2024.csproj|solutionrelative:repository\\contract\\iprofessoraplicadorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5DF2D8-AE19-4460-B08E-1898C5F39B1C}|AppSaresp_2024.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\appsaresp2024\\appsaresp_2024\\repository\\contract\\ialunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5DF2D8-AE19-4460-B08E-1898C5F39B1C}|AppSaresp_2024.csproj|solutionrelative:repository\\contract\\ialunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5DF2D8-AE19-4460-B08E-1898C5F39B1C}|AppSaresp_2024.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\appsaresp2024\\appsaresp_2024\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5DF2D8-AE19-4460-B08E-1898C5F39B1C}|AppSaresp_2024.csproj|solutionrelative:models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5DF2D8-AE19-4460-B08E-1898C5F39B1C}|AppSaresp_2024.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\appsaresp2024\\appsaresp_2024\\views\\aluno\\cadastraraluno.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F5DF2D8-AE19-4460-B08E-1898C5F39B1C}|AppSaresp_2024.csproj|solutionrelative:views\\aluno\\cadastraraluno.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5DF2D8-AE19-4460-B08E-1898C5F39B1C}|AppSaresp_2024.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\appsaresp2024\\appsaresp_2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5DF2D8-AE19-4460-B08E-1898C5F39B1C}|AppSaresp_2024.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5DF2D8-AE19-4460-B08E-1898C5F39B1C}|AppSaresp_2024.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\appsaresp2024\\appsaresp_2024\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6F5DF2D8-AE19-4460-B08E-1898C5F39B1C}|AppSaresp_2024.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\Appsaresp2024\\AppSaresp_2024\\Views\\Aluno\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Aluno\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\Appsaresp2024\\AppSaresp_2024\\Views\\Aluno\\Index.cshtml",
+              "RelativeToolTip": "Views\\Aluno\\Index.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T16:22:38.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProfessorAplicador.cs",
+              "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\Appsaresp2024\\AppSaresp_2024\\Models\\ProfessorAplicador.cs",
+              "RelativeDocumentMoniker": "Models\\ProfessorAplicador.cs",
+              "ToolTip": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\Appsaresp2024\\AppSaresp_2024\\Models\\ProfessorAplicador.cs",
+              "RelativeToolTip": "Models\\ProfessorAplicador.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:19:44.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\Appsaresp2024\\AppSaresp_2024\\Views\\ProfessorAplicadorRepository\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\ProfessorAplicadorRepository\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\Appsaresp2024\\AppSaresp_2024\\Views\\ProfessorAplicadorRepository\\Index.cshtml",
+              "RelativeToolTip": "Views\\ProfessorAplicadorRepository\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T15:34:53.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CadastrarProfessor.cshtml",
+              "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\Appsaresp2024\\AppSaresp_2024\\Views\\ProfessorAplicadorRepository\\CadastrarProfessor.cshtml",
+              "RelativeDocumentMoniker": "Views\\ProfessorAplicadorRepository\\CadastrarProfessor.cshtml",
+              "ToolTip": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\Appsaresp2024\\AppSaresp_2024\\Views\\ProfessorAplicadorRepository\\CadastrarProfessor.cshtml",
+              "RelativeToolTip": "Views\\ProfessorAplicadorRepository\\CadastrarProfessor.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T15:33:33.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProfessorAplicadorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\Appsaresp2024\\AppSaresp_2024\\Controllers\\ProfessorAplicadorRepository.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProfessorAplicadorRepository.cs",
+              "ToolTip": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\Appsaresp2024\\AppSaresp_2024\\Controllers\\ProfessorAplicadorRepository.cs",
+              "RelativeToolTip": "Controllers\\ProfessorAplicadorRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwBIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T15:28:03.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AlunoController.cs",
+              "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\Appsaresp2024\\AppSaresp_2024\\Controllers\\AlunoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AlunoController.cs",
+              "ToolTip": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\Appsaresp2024\\AppSaresp_2024\\Controllers\\AlunoController.cs",
+              "RelativeToolTip": "Controllers\\AlunoController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwB4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:32:33.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProfessorAplicadorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\Appsaresp2024\\AppSaresp_2024\\Repository\\ProfessorAplicadorRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ProfessorAplicadorRepository.cs",
+              "ToolTip": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\Appsaresp2024\\AppSaresp_2024\\Repository\\ProfessorAplicadorRepository.cs",
+              "RelativeToolTip": "Repository\\ProfessorAplicadorRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA7wD0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:20:49.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\Appsaresp2024\\AppSaresp_2024\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\Appsaresp2024\\AppSaresp_2024\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T16:13:38.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AlunoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\Appsaresp2024\\AppSaresp_2024\\Repository\\AlunoRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\AlunoRepository.cs",
+              "ToolTip": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\Appsaresp2024\\AppSaresp_2024\\Repository\\AlunoRepository.cs",
+              "RelativeToolTip": "Repository\\AlunoRepository.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAEwEUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:20:34.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IProfessorAplicadorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\Appsaresp2024\\AppSaresp_2024\\Repository\\Contract\\IProfessorAplicadorRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Contract\\IProfessorAplicadorRepository.cs",
+              "ToolTip": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\Appsaresp2024\\AppSaresp_2024\\Repository\\Contract\\IProfessorAplicadorRepository.cs",
+              "RelativeToolTip": "Repository\\Contract\\IProfessorAplicadorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:19:19.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IAlunoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\Appsaresp2024\\AppSaresp_2024\\Repository\\Contract\\IAlunoRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Contract\\IAlunoRepository.cs",
+              "ToolTip": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\Appsaresp2024\\AppSaresp_2024\\Repository\\Contract\\IAlunoRepository.cs",
+              "RelativeToolTip": "Repository\\Contract\\IAlunoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:19:36.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\Appsaresp2024\\AppSaresp_2024\\Models\\Aluno.cs",
+              "RelativeDocumentMoniker": "Models\\Aluno.cs",
+              "ToolTip": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\Appsaresp2024\\AppSaresp_2024\\Models\\Aluno.cs",
+              "RelativeToolTip": "Models\\Aluno.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAnwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:11:16.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CadastrarAluno.cshtml",
+              "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\Appsaresp2024\\AppSaresp_2024\\Views\\Aluno\\CadastrarAluno.cshtml",
+              "RelativeDocumentMoniker": "Views\\Aluno\\CadastrarAluno.cshtml",
+              "ToolTip": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\Appsaresp2024\\AppSaresp_2024\\Views\\Aluno\\CadastrarAluno.cshtml",
+              "RelativeToolTip": "Views\\Aluno\\CadastrarAluno.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T14:37:02.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\Appsaresp2024\\AppSaresp_2024\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\Appsaresp2024\\AppSaresp_2024\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:30:42.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\Appsaresp2024\\AppSaresp_2024\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\Appsaresp2024\\AppSaresp_2024\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-31T14:08:32.404Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

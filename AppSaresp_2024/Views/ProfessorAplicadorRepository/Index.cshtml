@@ -1,0 +1,65 @@
+﻿@model IEnumerable<AppSaresp_2024.Models.ProfessorAplicador>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="CadastrarProfessor">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.IdProfessor)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CPF)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RG)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Telefone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nascimento)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (ProfessorAplicador professorAplicador in Model) {
+        <tr>
+            <td>
+                    @Html.DisplayFor(modelItem => professorAplicador.IdProfessor)
+            </td>
+            <td>
+                    @Html.DisplayFor(modelItem => professorAplicador.Nome)
+            </td>
+            <td>
+                    @Html.DisplayFor(modelItem => professorAplicador.CPF)
+            </td>
+            <td>
+                    @Html.DisplayFor(modelItem => professorAplicador.RG)
+            </td>
+            <td>
+                    @Html.DisplayFor(modelItem => professorAplicador.Telefone)
+            </td>
+            <td>
+                    @Html.DisplayFor(modelItem => professorAplicador.Nascimento)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
